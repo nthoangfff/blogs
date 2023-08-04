@@ -1,0 +1,13 @@
+{
+  "name": "requier",
+  "version": "0.0.1",
+  "description": "Require app-specific modules without relative paths",
+  "main": "requier.js",
+  "scripts": {},
+  "keywords": ["require", "relative", "modules", "module"],
+  "author": "Jairo S. <jairosantos08@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "root-module": "0.0.2"
+  }
+}
